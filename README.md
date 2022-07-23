@@ -16,5 +16,5 @@ I am a PhD candidate at Florida International University where I study the fresh
 
 #### Macroinvertabrate Recruitment
 
-- [LILA] (https://github.com/nbarrus1/LILA)
+- [LILA](https://github.com/nbarrus1/LILA)
 
