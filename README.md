@@ -12,7 +12,7 @@ I am a PhD candidate at Florida International University where I study the fresh
 
 #### Baseline Proxies
 
-- Barrus, N. T., B. M. Maitland, and F. J. Rahel. 2024. Assessing a standardized method to identify optimal baselines for trophic position estimation in stable isotope studies of stream ecosystems. Hydrobiologia 851:4673–4691. [Baseline Proxy Code](https://github.com/nbarrus1/baseline-sia-proxies)
+- Barrus, N. T., B. M. Maitland, and F. J. Rahel. 2024. Assessing a standardized method to identify optimal baselines for trophic position estimation in stable isotope studies of stream ecosystems. Hydrobiologia 851:4673–4691. [Baseline Proxy Code](https://github.com/nbarrus1/baseline-sia-proxies) <sup>1</sup>
 
 #### Florida Apple Snails
 
