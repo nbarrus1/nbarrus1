@@ -16,7 +16,8 @@ I am a PhD candidate at Florida International University where I study the fresh
 
 #### Florida Apple Snails
 
-- Barrus, N. T., D. Drumheller, M. I. Cook, and N. J. Dorn. 2023. Life history responses of two co-occurring congeneric Apple Snails (Pomacea maculata and P. paludosa) to variation in water depth and metaphyton total phosphorus. Hydrobiologia 850:841–860. [Life History Code](https://github.com/nbarrus1/Pomacea_LifeHistory) 
-- Barrus, N. T., M. I. Cook, and N. J. Dorn. Interpreting field measurements of juvenile growth and survival rates with population growth isoclines. Target Journal: Ecology. [Isocline Code](https://github.com/nbarrus1/Pomacea_Isocline)
+- Barrus, N. T., D. Drumheller, M. I. Cook, and N. J. Dorn. 2023. Life history responses of two co-occurring congeneric Apple Snails (Pomacea maculata and P. paludosa) to variation in water depth and metaphyton total phosphorus. Hydrobiologia 850:841–860. [Life History Code](https://github.com/nbarrus1/Pomacea_LifeHistory) <sup>2</sup>
+- Barrus, N. T., M. I. Cook, and N. J. Dorn. Interpreting field measurements of juvenile growth and survival rates with population growth isoclines. Target Journal: Ecology. [Isocline Code](https://github.com/nbarrus1/Pomacea_Isocline) <sup>2</sup>
 
 <sup>1</sup> Undergaduate Work at the University of Wyoming through the Wyoming Research Scholars Program
+<sup>2</sup> Masters Thesis Word at Florida International University
