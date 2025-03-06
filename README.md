@@ -20,4 +20,5 @@ I am a PhD candidate at Florida International University where I study the fresh
 - Barrus, N. T., M. I. Cook, and N. J. Dorn. Interpreting field measurements of juvenile growth and survival rates with population growth isoclines. Target Journal: Ecology. [Isocline Code](https://github.com/nbarrus1/Pomacea_Isocline) <sup>2</sup>
 
 <sup>1</sup> Undergaduate Work at the University of Wyoming through the Wyoming Research Scholars Program  
-<sup>2</sup> Masters Thesis Word at Florida International University
+<sup>2</sup> Masters Thesis Work at Florida Atlantic University  
+<sup>3</sup> Dissertation Work at Florida International University
