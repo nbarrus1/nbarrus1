@@ -12,9 +12,9 @@ I am a PhD candidate at Florida International University where I study the fresh
 
 #### Baseline Proxies
 
-- [Baseline Proxy Code](https://github.com/nbarrus1/baseline-sia-proxies)
+- [Baseline Proxy Code](https://github.com/nbarrus1/baseline-sia-proxies) -Hydrobiologia
 
-#### Macroinvertabrate Recruitment
+#### Florida Apple Snails
 
 - [Isocline Manuscript](https://github.com/nbarrus1/Pomacea_Isocline)
 
