@@ -21,7 +21,7 @@ I am a PhD candidate at Florida International University where I study the fresh
 
 #### Invasion Biology
 
-- Barrus, N. T., & N. J. Dorn. In Prep. Quantitative description of boom-bust cycles in invasions: necessary narrowing of the definition to facilitate communication. Target Journal: Ecology Letters. [Boom-Bust Code] (https://github.com/nbarrus1/boom-bust) <sup>3</sup>
+- Barrus, N. T., & N. J. Dorn. In Prep. Quantitative description of boom-bust cycles in invasions: necessary narrowing of the definition to facilitate communication. Target Journal: Ecology Letters. [Boom-Bust Code](https://github.com/nbarrus1/boom-bust) <sup>3</sup>
 
 <sup>1</sup> Undergaduate Work at the University of Wyoming through the Wyoming Research Scholars Program  
 <sup>2</sup> Masters Thesis Work at Florida Atlantic University  
