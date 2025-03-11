@@ -17,7 +17,9 @@ I am a PhD candidate at Florida International University where I study the fresh
 #### Population Dynamics and Conservation Biology
 
 - Barrus, N. T., D. Drumheller, M. I. Cook, and N. J. Dorn. 2023. Life history responses of two co-occurring congeneric Apple Snails (Pomacea maculata and P. paludosa) to variation in water depth and metaphyton total phosphorus. Hydrobiologia 850:841–860. [Life History Code](https://github.com/nbarrus1/Pomacea_LifeHistory) <sup>2</sup>
-- Barrus, N. T., M. I. Cook, and N. J. Dorn. Interpreting field measurements of juvenile growth and survival rates with population growth isoclines. Target Journal: Ecology. [Isocline Code](https://github.com/nbarrus1/Pomacea_Isocline) <sup>2</sup>
+- Barrus, N. T., M. I. Cook, and N. J. Dorn. In Prep. Interpreting field measurements of juvenile growth and survival rates with population growth isoclines. Target Journal: Ecology. [Isocline Code](https://github.com/nbarrus1/Pomacea_Isocline) <sup>2</sup>
+- [FAS Population Collapse](https://github.com/nbarrus1/Pomacea-Time-Series) <sup>3</sup>
+- [Allee Effects-FAS]
 
 #### Invasion Biology
 
